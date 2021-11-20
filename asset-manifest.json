@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/beltacore/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/beltacore/static/js/main.5377dcee.chunk.js",
+    "main.js.map": "/beltacore/static/js/main.5377dcee.chunk.js.map",
+    "runtime-main.js": "/beltacore/static/js/runtime-main.22019083.js",
+    "runtime-main.js.map": "/beltacore/static/js/runtime-main.22019083.js.map",
+    "static/js/2.18183a31.chunk.js": "/beltacore/static/js/2.18183a31.chunk.js",
+    "static/js/2.18183a31.chunk.js.map": "/beltacore/static/js/2.18183a31.chunk.js.map",
+    "index.html": "/beltacore/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/beltacore/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.18183a31.chunk.js.LICENSE.txt": "/beltacore/static/js/2.18183a31.chunk.js.LICENSE.txt",
+    "static/media/consult.956807f5.svg": "/beltacore/static/media/consult.956807f5.svg",
+    "static/media/envelope.97969ee9.svg": "/beltacore/static/media/envelope.97969ee9.svg",
+    "static/media/mgt.f43d6c84.svg": "/beltacore/static/media/mgt.f43d6c84.svg",
+    "static/media/mobile_app.d996f199.svg": "/beltacore/static/media/mobile_app.d996f199.svg",
+    "static/media/pen-tool.8d25d3ec.svg": "/beltacore/static/media/pen-tool.8d25d3ec.svg",
+    "static/media/phone.3b280b33.svg": "/beltacore/static/media/phone.3b280b33.svg",
+    "static/media/svg-1.30d3ebbe.svg": "/beltacore/static/media/svg-1.30d3ebbe.svg",
+    "static/media/svg-2.0d5eafcf.svg": "/beltacore/static/media/svg-2.0d5eafcf.svg",
+    "static/media/svg-3.8105d427.svg": "/beltacore/static/media/svg-3.8105d427.svg",
+    "static/media/video.7d1ea6a9.mp4": "/beltacore/static/media/video.7d1ea6a9.mp4",
+    "static/media/web.3ccd7bef.svg": "/beltacore/static/media/web.3ccd7bef.svg",
+    "static/media/work-with-us.0113d909.svg": "/beltacore/static/media/work-with-us.0113d909.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22019083.js",
+    "static/js/2.18183a31.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.5377dcee.chunk.js"
+  ]
+}
